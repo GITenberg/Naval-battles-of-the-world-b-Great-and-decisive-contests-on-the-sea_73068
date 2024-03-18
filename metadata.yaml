@@ -1,11 +1,16 @@
 _repo: Naval-battles-of-the-world-b-Great-and-decisive-contests-on-the-sea_73068
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73068-h/images/cover.jpg
 creator:
   author:
     agent_name: Shippen, Edward
     gutenberg_agent_id: '56932'
     url: http://www.gutenberg.org/2009/agents/56932
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73068#Naval-battles-of-the-world-b-Great-and-decisive-contests-on-the-sea
 gutenberg_issued: '2024-02-28'
 gutenberg_type: Text
 identifiers:
